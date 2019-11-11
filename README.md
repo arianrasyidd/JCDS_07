@@ -1,4 +1,4 @@
-# This repositories is about the willingness to get done the Homewrok
+# This repositories is about the willingness to get done the Homework
 
 ## Outline View :
 
